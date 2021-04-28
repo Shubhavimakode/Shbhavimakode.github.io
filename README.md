@@ -1,2 +1,2 @@
-# Shbhavimakode.github.io
+# SHAPEAI WEB DEV BOOTCAMP
 Web Development Bootcamp project
